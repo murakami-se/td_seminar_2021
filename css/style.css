@@ -256,6 +256,7 @@ html, body {
 	margin-left: 20px;
 	font-weight: bold;
 	width: 200px;
+	text-align: left;
 }
 
 .input-group {
